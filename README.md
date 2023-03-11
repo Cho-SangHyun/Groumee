@@ -48,4 +48,5 @@
 아래 링크에서 실제 서비스를 이용해볼 수 있습니다.  
 
 ### 🌐 사이트 링크
-[Groumee](https://dkugroumee.herokuapp.com/)
+[Groumee](https://dkugroumee.herokuapp.com/)  
+※ Heroku 이용기간이 끝나 현재는 이용해볼 수 없습니다..
